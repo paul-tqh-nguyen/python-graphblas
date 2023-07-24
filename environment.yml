@@ -1,0 +1,11 @@
+name: prefect_oa
+dependencies:
+  - python=3.11
+  - black
+  - conda-forge::autoflake
+  - isort
+  - mypy
+  - conda-forge::prefect
+  - conda-forge::bs4
+  - pandas
+  - matplotlib
